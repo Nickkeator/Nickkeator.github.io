@@ -193,14 +193,14 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Spencer Coward, L3 Harris",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "A previous coworker and personal friend, exceptionally talented in embedded systems."
     },
     {
-      "name": "Professor John Doe",
+      "name": "Mahesh Varrey, AMD",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "A previous coworker whom I worked with at ZT systems, amazing at mechanism design and mechanical engineering overall."
     }
   ]
 }
